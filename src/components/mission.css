@@ -1,0 +1,20 @@
+@media screen and (max-width: 850px) {
+    /* .himatera__whathimatera-heading {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 0rem;
+    } */
+
+    /* .pointer {
+        margin-top: 100rem;
+    } */
+
+    .intro {
+        margin-bottom: 5rem;
+    }
+
+    .mission {
+        flex-direction: column;
+        align-items: center;
+    }
+}
